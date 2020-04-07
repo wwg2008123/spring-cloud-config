@@ -2,3 +2,5 @@ qx:
   hello: hello,git config bus rabbitMq,dev test 11111111!
 neo:
   hello: 测试开始，test333
+config:
+  info: dev
