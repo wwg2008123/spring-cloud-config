@@ -1,2 +1,5 @@
 qx:
   hello: pro
+  
+config:
+  info: pro
