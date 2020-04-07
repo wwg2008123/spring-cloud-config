@@ -1,2 +1,5 @@
 qx:
   hello: test
+
+config:
+  info: test1111
